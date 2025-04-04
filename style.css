@@ -398,7 +398,7 @@ nav {
 }
 
 .project-slider:hover {
-  /* animation-play-state: paused; */
+  background-color: transparent;
 }
 
 .project-item {
