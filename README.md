@@ -1,4 +1,4 @@
-# Isaac Pontes | Desenvolvedor Fullstack
+# Anelito Nery | Desenvolvedor Fullstack
 
 <div align="center">
   
@@ -108,9 +108,9 @@ Janeiro de 2016 - Setembro de 2021
 
 Estou em busca de novos desafios e oportunidades em projetos de software inovadores. Entre em contato!
 
-- **Email**: [isaaclfp@gmail.com](mailto:isaaclfp@gmail.com)
-- **Telefone**: [(22) 99605-7593](tel:+5522996057593)
-- **Localização**: São Fidélis, RJ - Brasil
+- **Email**: [anelito.nery@gmail.com](mailto:anelito.nery@gmail.com)
+- **Telefone**: [(11) 99999-9999](tel:+5511999999999)
+- **Localização**: Jundiaí, SP - Brasil
 
 ---
 
