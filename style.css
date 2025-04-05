@@ -398,7 +398,7 @@ nav {
 }
 
 .project-slider:hover {
-  background-color: transparent;
+  /* animation-play-state: paused; */
 }
 
 .project-item {
@@ -462,9 +462,6 @@ nav {
 
 .skill-category {
   margin-bottom: 2.5rem;
-  justify-content: center; /* Centraliza horizontalmente */
-  align-items: center;    /* Centraliza verticalmente */
-
 }
 
 .skill-category h3 {
@@ -476,10 +473,8 @@ nav {
 
 .skills-grid {
   display: grid;
-  /*grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));*/
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 1.5rem;
-  display: flex;
-  justify-content: center;
 }
 
 .skill-item {
@@ -513,7 +508,6 @@ nav {
   grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
   gap: 1.5rem;
   margin-top: 1rem;
-  text-align: center;
 }
 
 .soft-skill-item {
