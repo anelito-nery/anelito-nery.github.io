@@ -2,17 +2,19 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacpontes-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaac-pontes)
-[![Email](https://img.shields.io/badge/Email-isaaclfp%40gmail.com-red?style=flat-square&logo=gmail)](mailto:isaaclfpontes@gmail.com)
-[![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099605--7593-green?style=flat-square&logo=whatsapp)](tel:+5522996057593)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anelitonery-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/anelito-nery-691211a3)
+[![Email](https://img.shields.io/badge/Email-anelito.nery%40gmail.com-red?style=flat-square&logo=gmail)](mailto:anelito.nery@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-%2B55%2011%2095444--9892-green?style=flat-square&logo=whatsapp)](tel:+5511954449892)
 
 </div>
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor fullstack com mais de 8 anos de experiência em tecnologias web e forte foco em desenvolvimento frontend. Especialista em React, Node.js, Next.js, PostgreSQL e TypeScript. Possuo sólida experiência em estratégias de renderização, arquitetura monolítica e de microsserviços, aplicações serverless e computação em nuvem.
+Sou um Analista de Negócios e desenvolvedor, apaixonado por criar soluções tecnológicas que conectam eficiência e inovação. Com experiência sólida em tecnologias. Minha curiosidade por novas tecnologias e meu entusiasmo por aprendizado contínuo me permitem estar sempre em evolução, pronto para enfrentar desafios e entregar resultados impactantes
 
-Atualmente trabalho como desenvolvedor e professor na OneBitCode, onde lidero equipes de desenvolvimento e criação de conteúdo educacional para programadores. Também atuo como técnico em informática na Prefeitura de São Fidélis, gerenciando infraestrutura e desenvolvendo sistemas internos.
+Atualmente, atuo como Analista de Negócios em um renomado hospital da capital paulista, onde desenvolvo soluções alinhadas às necessidades do negócio, otimizando processos e promovendo a integração tecnológica. Minhas atribuições incluem análise de dados, levantamento de requisitos, mapeamento de processos, além de suporte técnico e treinamento de equipes. Essa vivência me proporcionou a capacidade de unir habilidades técnicas e estratégicas, criando pontes entre a tecnologia e os objetivos organizacionais.
+
+Seja criando sistemas robustos, refinando processos ou explorando novas tendências, meu objetivo é sempre agregar valor e transformar ideias em realidade.
 
 ## 🚀 Tecnologias
 
@@ -60,9 +62,9 @@ Atualmente trabalho como desenvolvedor e professor na OneBitCode, onde lidero eq
 
 ## 🎓 Formação Acadêmica
 
-- **Bacharelado em Sistemas de Informação** - Instituto Federal Fluminense (2013-2017)
-- **Técnico em Informática** - Instituto Federal Fluminense (2011-2012)
-- **Curso Fullstack JavaScript** - OneBitCode (2020)
+- **Bacharelado em Engenharia Eletrica** - Universidade Nove de Julho (2016-2021)
+- **Técnico em Redes e Programação** - SENAIS - Suiço Brasileira (2011-2012)
+- **Curso Fullstack JavaScript** - OneBitCode (2025)
 
 ## 💼 Experiência Profissional
 
